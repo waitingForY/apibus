@@ -1,2 +1,5 @@
 readBankLog.py 这个python文件主要是用于测试aipbus上处理数据的流程，数据是来源于德阳银行的日子文件。
-
+msgToJSON.js 这个是利用兰州银行的数据，首先将httptracer获得的数据解析成json格式
+countErro.js 统计出错的页面
+countUser-agent.js 统计用户的浏览器类型
+count-page.js 统计受访问的页面
