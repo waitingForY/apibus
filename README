@@ -3,3 +3,10 @@ msgToJSON.js 这个是利用兰州银行的数据，首先将httptracer获得的
 countErro.js 统计出错的页面
 countUser-agent.js 统计用户的浏览器类型
 count-page.js 统计受访问的页面
+
+
+*这里的webSet.txt
+就是apibus（nodered）中的flow（sheet）导出来的。
+每次直接pull下来让后导入apibus（nodered）中即可。
+
+*前面的几个js文件，是实验用的，后面所有的工作几乎都在webSet.txt中得以体现
